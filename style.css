@@ -1,0 +1,16 @@
+.btn-outline-success {
+    color: magenta;
+    border-radius: 120px;
+    border-color: magenta;
+    padding: 4px 20px;
+
+}
+.btn-outline-success:hover {
+    color: white;
+    border-radius: 120px;
+    border-color: magenta;
+    padding: 4px 20px;
+    background-color: magenta;
+
+}
+.btn-outline-success:hover
