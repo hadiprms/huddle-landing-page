@@ -13,4 +13,15 @@
     background-color: magenta;
 
 }
-.btn-outline-success:hover
+#banner{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 700;
+    padding: 0 20px;
+}
+#banner-parag{
+    margin-top: 40px;
+    text-align: center;
+    padding: 0 20px;
+    font-weight: 500;
+}
