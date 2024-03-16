@@ -89,3 +89,22 @@ padding:0 20px;
 #flow-h{
     font-weight: 650;
 }
+#sec-2{
+    margin-top: 50px;
+}
+#img-users{
+padding: 0 20px;
+background-color: hsl(207, 100%, 98%) ;
+}
+#user-dev{
+    background-color: hsl(207, 100%, 98%) ;
+}
+#user-p{
+    margin-bottom: 0;
+    padding-bottom: 80px;
+}
+#user-h{
+    padding-top: 50px;
+    padding-bottom: 15px;
+    font-weight: 700;
+}
