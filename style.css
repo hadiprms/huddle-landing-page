@@ -108,3 +108,8 @@ background-color: hsl(207, 100%, 98%) ;
     padding-bottom: 15px;
     font-weight: 700;
 }
+#footer-h{
+    margin-bottom: 0;
+    margin-top:80px;
+    font-weight: 700;
+}
