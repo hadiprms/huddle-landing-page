@@ -8,15 +8,15 @@
 .btn-outline-primary:hover , .btn-outline-primary:active {
     color: white;
     border-radius: 120px;
-    border-color: magenta;
+    border-color: hsl(321, 100%, 78%);
     padding: 4px 20px;
-    background-color: magenta;
+    background-color: hsl(321, 100%, 78%);
 }
 .btn-primary{
     border-radius: 120px;
-    background-color: magenta;
+    background-color: hsl(321, 100%, 78%);
     color: white;
-    border-color: magenta;
+    border-color: hsl(321, 100%, 78%);
     padding: 8px 40px;
     margin-top:30px;
 }
@@ -108,8 +108,34 @@ background-color: hsl(207, 100%, 98%) ;
     padding-bottom: 15px;
     font-weight: 700;
 }
-#footer-h{
+#last-body-h-h{
     margin-bottom: 0;
     margin-top:80px;
     font-weight: 700;
+}
+#footer-img{
+    margin-top: 200px;
+}
+#footer-div{
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
+#footer-h{
+    padding-top:50px ;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#footer-p{
+    padding:0 20px ;
+}
+#search-bar{
+    width: 330px;
+    margin-left: 10px;
+}
+#search-button{
+    margin: 20px 0 0 190px;
+    color: white;
+    border-color: hsl(321, 100%, 78%);
+    background-color: hsl(321, 100%, 78%);
+    padding: 10px 35px;
 }
