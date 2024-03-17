@@ -180,3 +180,10 @@ height: 30px;
     font-size: 15px;
     padding-top: 0;
 }
+#icons{
+    display: flex;
+    flex-direction:row;
+}
+#info-icon{
+    margin: 30px 8px 0 20px;
+}
