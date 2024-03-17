@@ -127,10 +127,13 @@ background-color: hsl(207, 100%, 98%) ;
 }
 #footer-p{
     padding:0 20px ;
+    color: white;
+    margin-bottom: 0;
 }
 #search-bar{
     width: 330px;
     margin-left: 10px;
+    margin-top: 20px;
 }
 #search-button{
     margin: 20px 0 0 190px;
@@ -138,4 +141,42 @@ background-color: hsl(207, 100%, 98%) ;
     border-color: hsl(321, 100%, 78%);
     background-color: hsl(321, 100%, 78%);
     padding: 10px 35px;
+}
+#footer-dev{
+    background-color:hsl(192, 100%, 9%) ;
+}
+#footer-a{
+    color: white;
+    font-weight: 700;
+    font-size:40px;
+}
+#icon-img{
+margin: 10px 0 0 5px;
+width: 30px;
+height: 30px;
+
+}
+#phone-img{
+    height: 15px;
+    width: 15px;
+    margin:0 20px 0 10px;
+
+
+}
+#footer-a-phone{
+    color: hsl(207, 100%, 98%);
+    font-size: 15px;
+    padding-bottom: 0;
+}
+#email-img{
+    height: 15px;
+    width: 15px;
+    margin:0 20px 0 10px;
+
+
+}
+#footer-a-email{
+    color: hsl(207, 100%, 98%);
+    font-size: 15px;
+    padding-top: 0;
 }
