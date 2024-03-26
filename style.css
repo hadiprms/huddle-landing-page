@@ -8,15 +8,15 @@
 .btn-outline-primary:hover , .btn-outline-primary:active {
     color: white;
     border-radius: 120px;
-    border-color: hsl(321, 100%, 78%);
+    border-color: hsl(322, 100%, 66%);
     padding: 4px 20px;
-    background-color: hsl(321, 100%, 78%);
+    background-color: hsl(322, 100%, 66%);
 }
 .btn-primary{
     border-radius: 120px;
-    background-color: hsl(321, 100%, 78%);
+    background-color: hsl(322, 100%, 66%);
     color: white;
-    border-color: hsl(321, 100%, 78%);
+    border-color: hsl(322, 100%, 66%);
     padding: 8px 40px;
     margin-top:30px;
 }
@@ -139,8 +139,8 @@ background-color: hsl(207, 100%, 98%) ;
     margin-top: 20px;
     float: right;
     color: white;
-    border-color: hsl(321, 100%, 78%);
-    background-color: hsl(321, 100%, 78%);
+    border-color: hsl(322, 100%, 66%);
+    background-color: hsl(322, 100%, 66%);
     padding: 10px 35px;
 }
 #footer-dev{
