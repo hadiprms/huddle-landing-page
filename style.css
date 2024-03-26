@@ -131,19 +131,20 @@ background-color: hsl(207, 100%, 98%) ;
     margin-bottom: 0;
 }
 #search-bar{
-    width: 330px;
+    width: 100%;
     margin-left: 10px;
     margin-top: 20px;
 }
 #search-button{
-    margin: 20px 0 0 190px;
+    margin-top: 20px;
+    float: right;
     color: white;
     border-color: hsl(321, 100%, 78%);
     background-color: hsl(321, 100%, 78%);
     padding: 10px 35px;
 }
 #footer-dev{
-    background-color:hsl(192, 100%, 9%) ;
+    background-color:hsl(192, 100%, 9%);
 }
 #footer-a{
     color: white;
@@ -179,4 +180,9 @@ height: 30px;
     color: hsl(207, 100%, 98%);
     font-size: 15px;
     padding-top: 0;
+}
+@media(min-width:376px){
+#footer-img,#user-last-part,#sec-2,#back-des{
+display: none;
+}
 }
