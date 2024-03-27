@@ -186,3 +186,21 @@ height: 30px;
 display: none;
 }
 }
+@media(min-width:1024px){
+    #mockPnj{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    #for-test{
+        display: flex;
+        margin-top: 50px;
+    }
+    #first-logo , #second-logo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
