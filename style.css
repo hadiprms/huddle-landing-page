@@ -193,7 +193,7 @@ display: none;
         margin-right: auto;
         width: 50%;
     }
-    #for-test{
+    #first-mediaTag{
         display: flex;
         margin-top: 50px;
     }
@@ -202,5 +202,11 @@ display: none;
         margin-left: auto;
         margin-right: auto;
         width: 50%;
+    }
+    #second-mediaTag , #fourth-mediaTag{
+        background-color:hsl(207, 100%, 98%);
+    }
+    #ds-margin{
+        margin: 100px 0;
     }
 }
