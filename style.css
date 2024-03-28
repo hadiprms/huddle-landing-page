@@ -209,4 +209,7 @@ display: none;
     #ds-margin{
         margin: 100px 0;
     }
+    #footer-div{
+        display: flex;
+    }
 }
