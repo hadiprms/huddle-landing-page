@@ -212,4 +212,15 @@ display: none;
     #footer-div{
         display: flex;
     }
+    #ds-form{
+        width: 100%;
+    }
+    #ds-button{
+        padding: 0 30px;
+        color: white;
+        border-color: hsl(322, 100%, 66%);
+        background-color: hsl(322, 100%, 66%);
+        margin-left: 10px;
+
+    }
 }
