@@ -181,6 +181,10 @@ height: 30px;
     font-size: 15px;
     padding-top: 0;
 }
+#res-test{
+    width: 100%;
+    height: auto;
+}
 @media(min-width:376px){
 #footer-img,#user-last-part,#sec-2,#back-des{
 display: none;
